@@ -1,0 +1,16 @@
+# TravGeek
+
+Back-end of a full-stack project where Users can buy book tours by completing payment & Admins can add,delete,update their providing services.
+
+---
+
+
+## Features ✔
+
+- #### Users can buy book tours by completing payment
+
+
+- #### Admins can add,delete,update their providing services.
+
+
+## Live site link: https://powerful-earth-79300.herokuapp.com/
